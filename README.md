@@ -15,6 +15,16 @@ C. What is the relationship between the in-outflow and the incidents on the road
 
 D. How can the data and the results be presented so that non-technical uses can explore traffic data, relationship with incidents and holiday/vacation times?
 
+## Project phases:
+The project will include the following phases
+1.	Gather data for the 12 main highway interfaces between Netherlands, Belgium and Germany from NDW. The data will focus on a set of loops on the immediate proximity of the border, for both directions of flow. The data will concern a period of 6 consecutive months in 2017. 
+2.	Collect incident data for the 12 highways indicated above for the same period of time in 2017.
+3.	Compile the main list holiday and festivity data for the 6 months of the study for Germany, Belgium and the Netherlands.
+4.	Model the traffic data (flow, speed and vehicle type) to harmonize across the various border crossings and create a reference dataset for review and analysis.
+5.	Define the key indicators to analyse the data, specifically for flow, type of vehicles, speed, and derived indicators that provide insights on the nature and type of traffic flowing in and out of the country.
+6.	Calculate all indicators for every day in the period and for specific time blocks within each day (e.g. night, morning rush 7am-10am, midday, evening rush 4pm -7pm, evening). 
+7.	Produce interactive dashboards in tableau or other to analyse the relationship between traffic characteristics, holiday/festivity dates and incidents.
+
 ## Project pipeline:
 ### 0: DATA TRANSFER
 0.0: scp data to instance
