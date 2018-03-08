@@ -1,4 +1,5 @@
 # Netherlands border traffic
+Project to visualise traffic inflows and outflows across 12 major highways into and out of the Netherlands from Belgium and Germand, from Mar-2017 till Oct-2017. Data were obtained from induction coils and visualisation done in Tableau.
 
 ## Project partners:
 **Rijkswaterstaat (RWS):** Rijkswaterstaat is responsible for the design, construction, management and maintenance of the main infrastructure facilities in the Netherlands. Its role is the practical execution of the public works and water management, including the construction and maintenance of waterways and roads, and flood protection and prevention.
@@ -6,13 +7,13 @@
 **CS Research:** we help organisations apply machine learning and artificial intelligence to problems that have a social impact. We are data scientists, computer scientists, economists, geographers and consultants working at the interface between research and industry. We work with private organizations, governments and NGOs to make an impact on problems that matter through Data Science and Artificial Intelligence.
 
 ## Project scope:
-What are the inflows and outflows from Germany and Belgium over the normal and the holiday period?
+A. What are the inflows and outflows from Germany and Belgium over the normal and the holiday period?
 
-What is the mix of vehicles and what are the daily pattern of vehicles (inflow-outflow) and the characteristics of traffic at different times, during regular and holiday period?
+B. What is the mix of vehicles and what are the daily pattern of vehicles (inflow-outflow) and the characteristics of traffic at different times, during regular and holiday period?
 
-What is the relationship between the in-outflow and the incidents on the road highway?
+C. What is the relationship between the in-outflow and the incidents on the road highway?
 
-How can the data and the results be presented so that non-technical uses can explore traffic data, relationship with incidents and holiday/vacation times?
+D. How can the data and the results be presented so that non-technical uses can explore traffic data, relationship with incidents and holiday/vacation times?
 
 ## Project pipeline:
 ### 0: DATA TRANSFER
