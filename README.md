@@ -1,9 +1,9 @@
 # Netherlands border traffic
 
 ## Project partners:
-*Rijkswaterstaat (RWS):* Rijkswaterstaat is responsible for the design, construction, management and maintenance of the main infrastructure facilities in the Netherlands. Its role is the practical execution of the public works and water management, including the construction and maintenance of waterways and roads, and flood protection and prevention.
+**Rijkswaterstaat (RWS):** Rijkswaterstaat is responsible for the design, construction, management and maintenance of the main infrastructure facilities in the Netherlands. Its role is the practical execution of the public works and water management, including the construction and maintenance of waterways and roads, and flood protection and prevention.
 
-*CS Research:* we help organisations apply machine learning and artificial intelligence to problems that have a social impact. We are data scientists, computer scientists, economists, geographers and consultants working at the interface between research and industry. We work with private organizations, governments and NGOs to make an impact on problems that matter through Data Science and Artificial Intelligence.
+**CS Research:** we help organisations apply machine learning and artificial intelligence to problems that have a social impact. We are data scientists, computer scientists, economists, geographers and consultants working at the interface between research and industry. We work with private organizations, governments and NGOs to make an impact on problems that matter through Data Science and Artificial Intelligence.
 
 ## Project scope:
 What are the inflows and outflows from Germany and Belgium over the normal and the holiday period?
